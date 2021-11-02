@@ -18,7 +18,7 @@ Conceitos e melhores práticas com bancos de dados PostgreSQL (27/10/21) #
 
 Aprenda a aplicar testes com Java (23/10/21) $
 
-Introdução aos Conceitos de API e Clean Architecture (28/10/21) #
+Introdução aos Conceitos de API e Clean Architecture (01/11/21) $
 
 Introdução a sistemas de mensagerias com Java (03/11/21) @
 
