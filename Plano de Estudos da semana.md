@@ -50,8 +50,6 @@ Reforçando o Conceito de Laços em Java
 
 <font size='5'> <b>Cursos à terminar até 30/11/21:</b></font>
 
-##### Reforçando o Conceito de Laços em Java  1h
-
 ##### Introdução a PostgreSQL   2h
 
 ##### Introdução a sistemas de mensagerias com Java   2h
