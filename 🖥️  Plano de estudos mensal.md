@@ -17,7 +17,7 @@ CC50 - Ciencia da Computaçaõ 50 - Curso de Harvard no Brasil pela Fundação E
 7% 
 
 Máteria de Estrutura de Dados - Tecnologia em Análise e Desenvolvimento de Sistemas com a Uninove
-30%
+35%
 
   ---------------------------------------------------------------
 
