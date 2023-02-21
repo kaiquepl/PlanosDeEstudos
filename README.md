@@ -1,5 +1,5 @@
 # Study-planning
- ### Simplified Java Study Guidelines
+ 
  #### (Diretrizes de estudos de Java simplificado)
  
  Caso tenha o interesse em contribuir com meus estudos Java, peço a gentileza que me indique projetos e/ou cursos que venham acrescentar ao conhecimento, principalmente no desenvolvimento de projetos simples porem que somem ao desenvolvimento das skills dentro dessa linguagem.
