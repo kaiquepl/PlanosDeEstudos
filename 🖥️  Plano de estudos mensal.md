@@ -11,13 +11,13 @@ Dedico a organização e empenho ao meu sucesso profissional e pessoal.
 
 ### Relação de cursos para Fevereiro:
 Oracle Databases na Alura - Plano de ensino organizado pela BRQ
-20% 
+35% 
 
 CC50 - Ciencia da Computaçaõ 50 - Curso de Harvard no Brasil pela Fundação Estudar
 7% 
 
 Máteria de Estrutura de Dados - Tecnologia em Análise e Desenvolvimento de Sistemas com a Uninove
-35%
+80%
 
   ---------------------------------------------------------------
 
