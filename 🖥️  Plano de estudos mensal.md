@@ -11,7 +11,7 @@ Dedico a organização e empenho ao meu sucesso profissional e pessoal.
 
 ### Relação de cursos para Fevereiro:
 Oracle Databases na Alura - Plano de ensino organizado pela BRQ
-35% 
+51% 
 
 CC50 - Ciencia da Computaçaõ 50 - Curso de Harvard no Brasil pela Fundação Estudar
 7% 
